@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adamvventura" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" alt="adamvventura" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adam-ventura" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/adam-ventura/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adamventura" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="adamventura" height="30" width="40" /></a>
 <a href="https://devpost.com/AdamVentura" target="blank"><img align="center" src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" alt="adamventura" height="30" width="40" /></a>
