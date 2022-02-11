@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">I am a high school student interested in technology.</h3>
+<h3 align="center">I am a student interested in technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamventura&label=Profile%20views&color=0e75b6&style=flat" alt="adamventura" /> </p>
 
